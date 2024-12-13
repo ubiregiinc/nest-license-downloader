@@ -1,0 +1,93 @@
+{
+  "commands": {
+    "license-plists-merger": [
+      {
+        "binaryPath": "/artifacts/ubiregiinc_LicensePlistsMerger_github.com_https/0.1.0/license-plists-merger-macos/license-plists-merger",
+        "manufacturer": {
+          "artifactBundle": {
+            "sourceInfo": {
+              "repository": {
+                "reference": "https://github.com/ubiregiinc/LicensePlistsMerger",
+                "version": "0.1.0"
+              },
+              "zipURL": "https://github.com/ubiregiinc/LicensePlistsMerger/releases/download/0.1.0/license-plists-merger-macos.artifactbundle.zip"
+            }
+          }
+        },
+        "resourcePaths": [],
+        "version": "0.1.0"
+      }
+    ],
+    "nest": [
+      {
+        "binaryPath": "/artifacts/mtj0928_nest_github.com_https/0.4.0/nest-macos/nest",
+        "manufacturer": {
+          "artifactBundle": {
+            "sourceInfo": {
+              "repository": {
+                "reference": "https://github.com/mtj0928/nest",
+                "version": "0.4.0"
+              },
+              "zipURL": "https://github.com/mtj0928/nest/releases/download/0.4.0/nest-macos.artifactbundle.zip"
+            }
+          }
+        },
+        "resourcePaths": [],
+        "version": "0.4.0"
+      }
+    ],
+    "spp": [
+      {
+        "binaryPath": "/artifacts/ubiregiinc_LicenseList_releases_download_0.4.2_swift-packages-parser-macos.artifactbundle.zip_github.com_https/unknown/swift-packages-parser-macos/spp",
+        "manufacturer": {
+          "artifactBundle": {
+            "sourceInfo": {
+              "zipURL": "https://github.com/ubiregiinc/LicenseList/releases/download/0.4.2/swift-packages-parser-macos.artifactbundle.zip"
+            }
+          }
+        },
+        "resourcePaths": [],
+        "version": "0.4.2"
+      }
+    ],
+    "swiftgen": [
+      {
+        "binaryPath": "/artifacts/SwiftGen_SwiftGen_github.com_https/6.6.3/swiftgen-6.6.3/swiftgen",
+        "manufacturer": {
+          "artifactBundle": {
+            "sourceInfo": {
+              "repository": {
+                "reference": "https://github.com/SwiftGen/SwiftGen",
+                "version": "6.6.3"
+              },
+              "zipURL": "https://github.com/SwiftGen/SwiftGen/releases/download/6.6.3/swiftgen-6.6.3.artifactbundle.zip"
+            }
+          }
+        },
+        "resourcePaths": [
+          "/artifacts/SwiftGen_SwiftGen_github.com_https/6.6.3/swiftgen-6.6.3/SwiftGen_SwiftGenCLI.bundle"
+        ],
+        "version": "6.6.3"
+      }
+    ],
+    "swiftlint": [
+      {
+        "binaryPath": "/artifacts/realm_SwiftLint_github.com_https/0.57.1/SwiftLintBinary-macos/swiftlint",
+        "manufacturer": {
+          "artifactBundle": {
+            "sourceInfo": {
+              "repository": {
+                "reference": "https://github.com/realm/SwiftLint",
+                "version": "0.57.1"
+              },
+              "zipURL": "https://github.com/realm/SwiftLint/releases/download/0.57.1/SwiftLintBinary-macos.artifactbundle.zip"
+            }
+          }
+        },
+        "resourcePaths": [],
+        "version": "0.57.1"
+      }
+    ]
+  },
+  "version": "1"
+}
